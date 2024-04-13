@@ -1,7 +1,7 @@
-#include "../../header/Player/PlayerService.h"
-#include "../../header/Player/PlayerController.h"
-#include "../../header/Global/ServiceLocator.h"
-#include "../../header/Collision/ICollider.h"
+#include "./header/Player/PlayerService.h"
+#include "./header/Player/PlayerController.h"
+#include "./header/Global/ServiceLocator.h"
+#include "./header/Collision/ICollider.h"
 
 namespace Player
 {

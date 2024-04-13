@@ -1,5 +1,5 @@
-#include "../../header/Particle/ParticleService.h"
-#include "../../header/Particle/ParticleSystemConfigData.h"
+#include "./header/Particle/ParticleService.h"
+#include "./header/Particle/ParticleSystemConfigData.h"
 
 namespace Particle
 {

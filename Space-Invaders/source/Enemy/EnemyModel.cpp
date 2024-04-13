@@ -1,5 +1,5 @@
-#include "../../header/Enemy/EnemyModel.h"
-#include "../../header/Enemy/EnemyConfig.h"
+#include "./header/Enemy/EnemyModel.h"
+#include "./header/Enemy/EnemyConfig.h"
 
 namespace Enemy
 {

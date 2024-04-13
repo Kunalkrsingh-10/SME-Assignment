@@ -1,8 +1,8 @@
-#include "../../header/Elements/Bunker/BunkerView.h"
-#include "../../header/Global/ServiceLocator.h"
-#include "../../header/Graphics/GraphicService.h"
-#include "../../header/Global/Config.h"
-#include "../../header/Elements/Bunker/BunkerController.h"
+#include "./header/Elements/Bunker/BunkerView.h"
+#include "./header/Global/ServiceLocator.h"
+#include "./header/Graphics/GraphicService.h"
+#include "./header/Global/Config.h"
+#include "./header/Elements/Bunker/BunkerController.h"
 
 namespace Element
 {

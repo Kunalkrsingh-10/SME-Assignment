@@ -1,7 +1,7 @@
-#include "../../header/Enemy/Controller/ThunderSnakeController.h"
-#include "../../header/Enemy/EnemyView.h"
-#include "../../header/Enemy/EnemyModel.h"
-#include "../../header/Global/ServiceLocator.h"
+#include "./header/Enemy/Controller/ThunderSnakeController.h"
+#include "./header/Enemy/EnemyView.h"
+#include "./header/Enemy/EnemyModel.h"
+#include "./header/Global/ServiceLocator.h"
 
 namespace Enemy
 {

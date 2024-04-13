@@ -1,6 +1,6 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../Collision/ICollider.h"
+#include "./Collision/ICollider.h"
 
 namespace Enemy
 {

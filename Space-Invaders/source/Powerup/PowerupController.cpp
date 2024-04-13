@@ -2,7 +2,7 @@
 #include "../../header/Powerup/PowerupView.h"
 #include "../../header/Powerup/PowerupModel.h"
 #include "../../header/Global/ServiceLocator.h"
-#include "../../header/Player/PlayerController.h"
+#include "./header/Player/PlayerController.h"
 
 namespace Powerup
 {

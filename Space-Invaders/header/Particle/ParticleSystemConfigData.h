@@ -1,6 +1,6 @@
 #pragma once
 #include "ParticleSystemConfig.h"
-#include "../../header/Global/Config.h"
+#include "./header/Global/Config.h"
 
 namespace Particle
 {

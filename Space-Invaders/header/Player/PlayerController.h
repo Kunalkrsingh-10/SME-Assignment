@@ -1,9 +1,9 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../Collision/ICollider.h"
-#include "../../header/Powerup/PowerupConfig.h"
-#include "../../header/Player/PlayerModel.h"
-#include "../../header/Player/PlayerView.h"
+#include "./Collision/ICollider.h"
+#include "./header/Powerup/PowerupConfig.h"
+#include "./header/Player/PlayerModel.h"
+#include "./header/Player/PlayerView.h"
 
 namespace Player
 {

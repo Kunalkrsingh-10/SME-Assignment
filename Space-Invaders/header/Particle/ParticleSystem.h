@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../../header/Particle/ParticleSystemConfig.h"
-#include "../../header/UI/UIElement/ImageView.h"
+#include "./header/Particle/ParticleSystemConfig.h"
+#include "./header/UI/UIElement/ImageView.h"
 
 namespace Particle
 {

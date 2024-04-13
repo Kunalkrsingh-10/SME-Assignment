@@ -1,5 +1,5 @@
-#include "../../header/Global/ServiceLocator.h"
-#include "../../header/Main/GameService.h"
+#include "./header/Global/ServiceLocator.h"
+#include "./header/Main/GameService.h"
 
 namespace Global
 {

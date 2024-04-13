@@ -1,6 +1,6 @@
-#include "../../header/Elements/ElementService.h"
-#include "../../header/Collision/ICollider.h"
-#include "../../header/Global/ServiceLocator.h"
+#include "./header/Elements/ElementService.h"
+#include "./header/Collision/ICollider.h"
+#include "./header/Global/ServiceLocator.h"
 
 namespace Element
 {

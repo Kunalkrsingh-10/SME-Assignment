@@ -1,16 +1,16 @@
 #pragma once
-#include "../../header/Graphics/GraphicService.h"
-#include "../../header/Event/EventService.h"
-#include "../../header/UI/UIService.h"
-#include "../../header/Player/PlayerService.h"
-#include "../../header/Time/TimeService.h"
-#include "../../header/Enemy/EnemyService.h"
-#include "../../header/Gameplay/GameplayService.h"
-#include "../../header/Elements/ElementService.h"
-#include "../../header/Powerup/PowerupService.h"
-#include "../../header/Sound/SoundService.h"
-#include "../../header/Collision/CollisionService.h"
-#include "../../header/Particle/ParticleService.h"
+#include "./header/Graphics/GraphicService.h"
+#include "./header/Event/EventService.h"
+#include "./header/UI/UIService.h"
+#include "./header/Player/PlayerService.h"
+#include "./header/Time/TimeService.h"
+#include "./header/Enemy/EnemyService.h"
+#include "./header/Gameplay/GameplayService.h"
+#include "./header/Elements/ElementService.h"
+#include "./header/Powerup/PowerupService.h"
+#include "./header/Sound/SoundService.h"
+#include "./header/Collision/CollisionService.h"
+#include "./header/Particle/ParticleService.h"
 
 namespace Global
 {

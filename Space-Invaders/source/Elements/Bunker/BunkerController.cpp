@@ -1,7 +1,7 @@
-#include "../../header/Elements/Bunker/BunkerController.h"
-#include "../../header/Elements/Bunker/BunkerView.h"
-#include "../../../header/Entity/EntityConfig.h"
-#include "../../header/Global/ServiceLocator.h"
+#include "./header/Elements/Bunker/BunkerController.h"
+#include "./header/Elements/Bunker/BunkerView.h"
+#include "./header/Entity/EntityConfig.h"
+#include "./header/Global/ServiceLocator.h"
 
 namespace Element
 {

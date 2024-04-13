@@ -1,9 +1,9 @@
-#include "../../header/Player/PlayerView.h"
-#include "../../header/Global/ServiceLocator.h"
-#include "../../header/Global/Config.h"
-#include "../../header/Graphics/GraphicService.h"
-#include "../../header/Player/PlayerController.h"
-#include "../../header/Player/PlayerModel.h"
+#include "./header/Player/PlayerView.h"
+#include "./header/Global/ServiceLocator.h"
+#include "./header/Global/Config.h"
+#include "./header/Graphics/GraphicService.h"
+#include "./header/Player/PlayerController.h"
+#include "./header/Player/PlayerModel.h"
 
 namespace Player
 {

@@ -1,5 +1,5 @@
 #pragma once
-#include "../../header/Powerup/PowerupController.h"
+#include "./header/Powerup/PowerupController.h"
 
 namespace Powerup
 {

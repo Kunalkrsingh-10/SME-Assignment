@@ -1,1 +1,9 @@
-# SME-Assignment
+# SME-Assignment 
+stage 01 ;- I successfully completed stage 01, and  the issue by using GitHub's fork tool to create a cloned repo for the SME assignment. Also, I installed the SFML library  in VS Code, allowing me to include the libraries and dependencies required for my project to compile and execute properly . it takes only 5 min .
+
+Stage 02 :- I have successfully resolved the bug, and now the program is functioning correctly. I made several changes to the code, including addressing syntax issues, and I have thoroughly tested all program files to ensure they execute as well keeping in mind execution is not high. While there are a few remaining warnings may be it cause my systeam like i am using macbook , may be it's my systeam problem , becasue the warning is showing its few file not include in your systeam , the overall functionality of the program has been restored. it's take lil long actually i haven't prior knowledge of SFML library , so i have read whatever resoureces avilable and documentation avilable on internet and also watched few video of  ashis kumar  on youtube . so i developed some idea from them .
+
+stage 03 :- for firing bullet we have to change code of the program and put some logic into power up folder , player and controller . we have to change first player controller and player model and later on few change in code for player services . as much i have develop to  understand the code . step 1 , we have to update the code of player model by inroducing bullet object and adding its bullet related entities . and enabling fire bullet which is disable in code . 
+sescond step is :- we have to add the bullet related entities like firing bullet , handling bullet speed and direction and managing it's interaction with other components of game like enemy and ship . 
+third step is :- few change in player service . 
+beyond this i am not able to any change in this code . i haven't have prior knwoledge of SFML and limited time and resources . i can't proced further , due to time limitations of 24 hr . 

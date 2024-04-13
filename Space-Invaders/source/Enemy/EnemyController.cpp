@@ -1,12 +1,12 @@
-#include "../../header/Enemy/EnemyController.h"
-#include "../../header/Enemy/EnemyView.h"
-#include "../../header/Enemy/EnemyModel.h"
-#include "../../header/Enemy/EnemyConfig.h"
-#include "../../header/Global/ServiceLocator.h"
-#include "../../header/Entity/EntityConfig.h"
-#include "../../header/Player/PlayerController.h"
-#include "../../header/Particle/ParticleSystem.h"
-#include "../../header/Sound/SoundService.h"
+#include "./header/Enemy/EnemyController.h"
+#include "./header/Enemy/EnemyView.h"
+#include "./header/Enemy/EnemyModel.h"
+#include "./header/Enemy/EnemyConfig.h"
+#include "./header/Global/ServiceLocator.h"
+#include "./header/Entity/EntityConfig.h"
+#include "./header/Player/PlayerController.h"
+#include "./header/Particle/ParticleSystem.h"
+#include "./header/Sound/SoundService.h"
 
 namespace Enemy
 {

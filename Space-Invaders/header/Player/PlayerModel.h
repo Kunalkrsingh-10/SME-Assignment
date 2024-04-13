@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../../header/Entity/EntityConfig.h"
-#include "../../header/UI/GameplayUI/GameplayUIController.h"
+#include "./header/Entity/EntityConfig.h"
+#include "./header/UI/GameplayUI/GameplayUIController.h"
 
 namespace Player
 {

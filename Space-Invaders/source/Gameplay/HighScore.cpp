@@ -1,4 +1,4 @@
-#include "../../header/Gameplay/HighScore.h"
+#include "./header/Gameplay/HighScore.h"
 #include <fstream>
 
 namespace Gameplay

@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 #include <SFML/System/Vector2.hpp>
-#include "../../header/Particle/ParticleSystem.h"
+#include "./header/Particle/ParticleSystem.h"
 
 namespace Particle
 {

@@ -1,7 +1,7 @@
-#include "../../header/Particle/ParticleSystem.h"
-#include "../../header/Global/Config.h"
-#include "../../header/Global/ServiceLocator.h"
-#include "../../header/Particle/ParticleService.h"
+#include "./header/Particle/ParticleSystem.h"
+#include "./header/Global/Config.h"
+#include "./header/Global/ServiceLocator.h"
+#include "./header/Particle/ParticleService.h"
 
 namespace Particle
 {

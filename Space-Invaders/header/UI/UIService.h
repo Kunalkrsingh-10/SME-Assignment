@@ -1,10 +1,10 @@
 #pragma once
-#include "../../header/UI/MainMenu/MainMenuUIController.h"
-#include "../../header/UI/SplashScreen/SplashScreenUIController.h"
-#include "../../header/UI/GameplayUI/GameplayUIController.h"
-#include "../../header/UI/Instructions/InstructionsScreenUIController.h"
-#include "../../header/UI/Credits/CreditsScreenUIController.h"
-#include "../../header/UI/Interface/IUIController.h"
+#include "./header/UI/MainMenu/MainMenuUIController.h"
+#include "./header/UI/SplashScreen/SplashScreenUIController.h"
+#include "./header/UI/GameplayUI/GameplayUIController.h"
+#include "./header/UI/Instructions/InstructionsScreenUIController.h"
+#include "./header/UI/Credits/CreditsScreenUIController.h"
+#include "./header/UI/Interface/IUIController.h"
 
 namespace UI
 {

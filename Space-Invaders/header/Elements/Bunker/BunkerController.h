@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../../Collision/ICollider.h"
-#include "../../header/Elements/Bunker/BunkerData.h"
+#include "./Collision/ICollider.h"
+#include "./header/Elements/Bunker/BunkerData.h"
 
 namespace Element
 {
